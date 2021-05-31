@@ -1,0 +1,16 @@
+
+.recuadro{
+    background-color: gray;
+    margin: 2rem;
+    padding: 1rem;
+    width: 45rem;
+}
+.interior-cuadro{
+    display:flex;
+    justify-content: space-between;
+}
+.alerta {
+   display: flex;
+}
+#texto{
+}
