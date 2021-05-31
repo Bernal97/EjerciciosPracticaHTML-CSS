@@ -7,10 +7,8 @@
 }
 .interior-cuadro{
     display:flex;
-    justify-content: space-between;
+
 }
 .alerta {
    display: flex;
-}
-#texto{
 }
